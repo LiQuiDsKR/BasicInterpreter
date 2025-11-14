@@ -1,0 +1,19 @@
+function g(int x)
+begin
+  (1+2-3+x);   
+end
+
+function f(int a)
+begin
+   int b = 1;
+   int c = 2;
+   ((b*c)+g(a));
+end
+
+function main()
+begin
+   int a = 1;
+   int b = 2;
+   int c = 3;
+   ((2 + f(c) ) * a);
+end

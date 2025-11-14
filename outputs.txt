@@ -1,0 +1,7 @@
+Here are the outputs of sample input files
+
+input1.spl ->4
+input2.spl ->7
+input3.spl ->7
+input4.spl ->5
+

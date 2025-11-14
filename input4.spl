@@ -1,0 +1,22 @@
+function g(int y)
+begin
+  (1+2-3+y);   
+end
+
+function f(int x)
+begin
+   int b = 1;
+   int c = 2;
+   if ( b > (b+c))
+   	((b*c)+g(x));
+   if ( c > b )
+	(1+g(x));
+end
+
+function main()
+begin
+   int k = 1;
+   int t = 2;
+   int x = 3;
+   ((2 + f(x) ) - k);
+end
